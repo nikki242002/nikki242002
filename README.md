@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @nikki242002
-- 👀 I’m interested in learning New skills and explore ⚙️technoligies
-- 🌱 I’m currently learning...Data Anaytics with 🐍pyhton
-- 💞️ I’m looking to collaborate ~ ~ ~ on some real industries based Projects
-- 📫 How to reach me :-sharmanitin2420022gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an Artist, Novel reader, Good listner & love to enjoy ❤️ life.
+- 👋 Hi, I’m Nitin sharma
 
+##  Data Analyst | Python, SQL, Power BI Enthusiast
+- 🌍 I'm based in [Delhi, India]
+- 🖥️ Visit my portfolio: [Your Portfolio Link]
+- 📧Email me at: [sharmanitin242002@gmail.com]
+- 🧠Currently enhancing my skills in **Generative AI, Real-time data Analytics, and Dashboard Automation**
+- 🤝Open to collaborating on **Data Visualization, BI dashboards, and Analytics Projects**
+- ⚡ Pursuing B.Tech (Computer Science) from IP University.
 
+<img width="155" height="28" alt="image" src="https://github.com/user-attachments/assets/5fc16cf9-2bf2-4078-aa89-7a51ca37d7c8" />
+
+SKILLS
+C C++ Git Java JavaScript Python Power Bi HTML5 CSS3 React  TailwindCSS
+MySQL Figma
+
+Socials
+ 
 
 📊 Data Analytics Portfolio 
 
